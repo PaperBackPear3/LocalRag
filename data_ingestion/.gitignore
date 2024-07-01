@@ -1,3 +1,4 @@
 local_rag
 chroma_db
 .env
+.ipynb_checkpoints

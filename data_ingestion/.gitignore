@@ -1,1 +1,3 @@
 local_rag
+chroma_db
+.env
